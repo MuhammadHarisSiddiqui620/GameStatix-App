@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button.White" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@android:color/holo_red_light</item>
+    </style>
+
+    <style name="my_checkbox_style">
+        <item name="buttonTint">@color/checkbox_border</item>
+    </style>
+
+
+</resources>

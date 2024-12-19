@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Stat Tools</string>
+    <string name="instruction_text">Create a new file for a team or player to keep their statistics.
+Edit the data to make changes to previously created files, and analyze the data to see how the progress of a player or team is changing
+</string>
+
+    <string name="home">Home</string>
+    <string name="enter">Enter</string>
+    <string name="select_the_indicators_to_edit">Select indicators to edit:</string>
+    <string name="win">Win</string>
+    <string name="draw">Draw</string>
+    <string name="loose">Loose</string>
+    <string name="score">Score</string>
+    <string name="points">Points</string>
+    <string name="played_games">Played Games</string>
+    <string name="create_the_types_of_defeat">Create the types of defeat:</string>
+    <string name="create_the_other_team_player_metrics">Create other team/player metrics:</string>
+    <string name="select_logo">Select logo:</string>
+    <string name="create_types_of_victories">Create types of victories:</string>
+    <string name="enter_name">Enter name:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="do_you_really_want_to_delete_the_file">Do you really want\n to delete the file?</string>
+    <string name="no_record_found">No Record Found</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="general">General</string>
+    <string name="type_of_victories">Type of victories</string>
+    <string name="type_of_defeats">Type of defeats</string>
+    <string name="other_indicators">Other indicators</string>
+    <string name="edit">Edit</string>
+    <string name="analyze">Analyze</string>
+    <string name="correlation_of_results">Correlation\n of results</string>
+    <string name="average_scores_per_game">Average scores\n per game</string>
+    <string name="average_points_per_game">Average points\n per game</string>
+    <string name="number_of_scores_per_1_point">Number of Scores\n per 1 Point</string>
+    <string name="_0">0</string>
+    <string name="correlation_of_victories">Correlation of victories</string>
+    <string name="correlation_of_defeats">Correlation of defeats</string>
+    <string name="average_other_metrics_per_game">Average other metrics per game</string>
+    <string name="average_indicator">Average Indicator</string>
+
+</resources>

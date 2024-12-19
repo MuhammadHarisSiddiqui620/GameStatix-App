@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/playerDetailKey"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="5dp"
+        android:fontFamily="@font/montserrat"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/playerDetailExistingValue"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="18dp"
+        android:layout_marginBottom="5dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/playerDetailKey"
+        app:layout_constraintStart_toEndOf="@+id/playerDetailKey"
+        app:layout_constraintTop_toTopOf="@+id/playerDetailKey">
+
+    </TextView>
+
+
+    <ImageView
+        android:id="@+id/underline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="2.5dp"
+        android:src="@drawable/line"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/playerDetailValue"
+        app:layout_constraintStart_toStartOf="@+id/playerDetailKey"
+        app:layout_constraintTop_toBottomOf="@+id/playerDetailKey">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/ic_plus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/ic_plus"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/playerDetailValue"
+        app:layout_constraintEnd_toStartOf="@+id/playerDetailValue"
+        app:layout_constraintTop_toTopOf="@+id/playerDetailValue">
+
+    </ImageView>
+
+    <EditText
+        android:id="@+id/playerDetailValue"
+        android:layout_width="37dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat_bold"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        android:focusable="false"
+        android:background="@null"
+        android:hint="@string/_0"
+        android:textColorHint="@color/white"
+        android:padding="5dp"
+        android:focusableInTouchMode="false"
+        app:layout_constraintBottom_toBottomOf="@+id/playerDetailKey"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/playerDetailKey">
+
+    </EditText>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
