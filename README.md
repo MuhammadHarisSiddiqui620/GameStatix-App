@@ -1,6 +1,6 @@
 # Alarm Clock App ⏰
 
-A simple and user-friendly alarm clock app built using Flutter, which allows users to set alarms with custom labels and specific time inputs. The app is designed with an intuitive interface for easy navigation, supports multiple alarms, and allows for full customization of the alarm notifications. 
+A versatile app for creating and managing player or team statistics. This app allows users to create detailed records, edit them, and analyze their performance using various metrics and insights. It features a clean interface for easy navigation and customization.
 
 
 ![Day](https://github.com/user-attachments/assets/6ca54822-2dd1-4dd7-8cbb-f649d5141c79)
@@ -16,20 +16,22 @@ A simple and user-friendly alarm clock app built using Flutter, which allows use
 
 ## Features ✨
 
-- **Custom Alarm Labels**: Users can set a name for each alarm (e.g., "Meeting", "Workout").
-- **Time Input**: A dedicated text field where users can enter time in 24-hour format (`00:00` to `24:00`).
-- **Alarm Notifications**: The app triggers notifications along with sound, vibration, and the option to loop audio.
-- **Multiple Alarms**: Supports the creation of multiple alarms with unique labels.
-- **SVG Assets**: Clean and lightweight vector assets are used for icons and illustrations.
+- **Menu Navigation**: Access all app features from a central hub.
+- **Instruction Screen**: Provides a clear guide on app usage.
+- **Custom File Creation**: Create detailed files for players or teams with editable metrics.
+- **File Management**: View, edit, or delete player/team files effortlessly.
+- **Data Analysis**: Generate insights and charts based on collected statistics.
 
 ## Screens 🚀
 
 The app consists of several key screens:
 
-### 1. **Alarm List Screen**
-   - Displays a list of all the active alarms.
-   - Horizontal scrolling for selecting days of the week.
-   - A floating button at the bottom to add a new alarm.
+### 1. **Menu Screen**
+   - The main hub to navigate to other screens:
+      - New File: Create a new record.
+      - Files: View existing records.
+      - Instructions: Learn how to use the app.
+   - Simple, intuitive design for seamless navigation.
 
 ![Alarms (1)](https://github.com/user-attachments/assets/853d95ad-997e-44af-9121-13971832268a)
 
@@ -41,9 +43,10 @@ The app consists of several key screens:
 
 ![Alarms (2)](https://github.com/user-attachments/assets/17f740e6-458c-413e-bc14-60ad572ad80a)
 
-### 3. **Alarm Set Confirmation**
-   - A screen confirming that the alarm has been successfully set with a summary of alarm details.
-   - Displays the time and label of the alarm.
+### 3. **Instruction Screen**
+   - Provides an overview of the app's purpose and features.
+   - Step-by-step guidance for creating, editing, and analyzing files.
+   - Exit Button: Return to the menu from the top-left corner.
 
 ![Week](https://github.com/user-attachments/assets/93108a75-32bd-4d57-834e-39fed76a0f64)
 
