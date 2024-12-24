@@ -22,7 +22,8 @@ The app consists of several key screens:
       - **Instructions**: Learn how to use the app.
    - Simple, intuitive design for seamless navigation.
 
-![Alarms (1)](https://github.com/user-attachments/assets/853d95ad-997e-44af-9121-13971832268a)
+![image](https://github.com/user-attachments/assets/1c3a3b21-6d12-4790-8fd4-e015b12eb862)
+
 
 ### 2. **Instruction Screen**
    - Provides an overview of the app's purpose and features.
