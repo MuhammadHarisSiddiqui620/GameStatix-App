@@ -22,7 +22,8 @@ The app consists of several key screens:
       - **Instructions**: Learn how to use the app.
    - Simple, intuitive design for seamless navigation.
 
-![image](https://github.com/user-attachments/assets/7b95be03-317f-47ee-ab80-844a6d16aa0b)
+![image](https://github.com/user-attachments/assets/9012b9da-8239-4628-916d-cdf0a77ac271)
+
 
 
 ### 2. **Instruction Screen**
@@ -31,7 +32,7 @@ The app consists of several key screens:
    - Exit Button: Return to the menu from the top-left corner.
    - Example instructions:"Create a new file for a team or player to track statistics. Edit data for updates and analyze it to view progress."
 
-![image](https://github.com/user-attachments/assets/e42160bd-98b7-4e30-81e7-ed4c633ff305)
+![image](https://github.com/user-attachments/assets/abbcd748-f181-4423-b7f3-0fc797777004)
 
 
 ### 3. **New File Screen**
@@ -48,9 +49,9 @@ The app consists of several key screens:
      - Scores, Points
      - Custom metrics (e.g., "Goals Scored", "Fouls")
 
-![image](https://github.com/user-attachments/assets/2ff6e6d3-67fc-4e05-8106-e53a32724178)
+![image](https://github.com/user-attachments/assets/5e0f9eb9-e469-4a0f-8e38-f04a3050afc7)
 
-![image](https://github.com/user-attachments/assets/d4605738-40e5-4b13-8c4b-b7ead45a588e)
+![image](https://github.com/user-attachments/assets/d7a9f613-4ee4-4dcb-ac06-a1edb634d165)
 
 
 ### 4. **Files Screen**
@@ -61,11 +62,11 @@ The app consists of several key screens:
      - **Analyze**: View performance metrics and insights.
    - Exit Button: Return to the menu from the top-left corner.
 
-![image](https://github.com/user-attachments/assets/87532da2-e0ce-45af-97d3-e7401215358f)
+![image](https://github.com/user-attachments/assets/9dd34224-5ad8-4485-a821-20191c3364ae)
 
-![image](https://github.com/user-attachments/assets/f499eeee-6f0b-453d-bedf-30212222a258)
+![image](https://github.com/user-attachments/assets/39e8ca86-da9b-4836-b0fe-5c900bfd0f48)
 
-![image](https://github.com/user-attachments/assets/ff0b02e6-00ac-400d-8ea8-cb42ace2e75e)
+![image](https://github.com/user-attachments/assets/c39ae714-6c5a-4fb6-b7a5-0d162f0d910d)
 
 
 ### 5. **Edit Screen**
@@ -75,7 +76,7 @@ The app consists of several key screens:
      - Save or cancel changes using the respective buttons.
    - Clear layout with horizontal separators for easy readability.
 
-![image](https://github.com/user-attachments/assets/44ab72b2-3219-49e4-b005-52be4373f4de)
+![image](https://github.com/user-attachments/assets/421b6fab-ddc1-4ab1-8cac-0f9c7913ddf4)
 
 
 ### 6. **Analyze Screen**
@@ -87,7 +88,7 @@ The app consists of several key screens:
    - Outputs include percentages and averages with up to 4 decimal points for precision.
    - **Exit Button**: Return to the menu from the top-left corner.
 
-![image](https://github.com/user-attachments/assets/79eec799-fe69-4bcb-ae0a-a0cbe6fec05e)
+![image](https://github.com/user-attachments/assets/8eda7afc-0237-49a3-bef2-7788492649a9)
 
 
 ## Installation 🔧
