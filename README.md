@@ -96,4 +96,4 @@ To run the app locally on your device or emulator:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MuhammadHarisSiddiqui620/alarm_clock.git
+   git clone https://github.com/MuhammadHarisSiddiqui620/GameStatix-App.git
