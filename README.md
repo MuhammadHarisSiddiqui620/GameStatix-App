@@ -22,7 +22,7 @@ The app consists of several key screens:
       - **Instructions**: Learn how to use the app.
    - Simple, intuitive design for seamless navigation.
 
-![image](https://github.com/user-attachments/assets/1c3a3b21-6d12-4790-8fd4-e015b12eb862)
+![image](https://github.com/user-attachments/assets/8b163101-76f9-46a4-9fd4-35b0e03cefa6)
 
 
 ### 2. **Instruction Screen**
@@ -31,7 +31,8 @@ The app consists of several key screens:
    - Exit Button: Return to the menu from the top-left corner.
    - Example instructions:"Create a new file for a team or player to track statistics. Edit data for updates and analyze it to view progress."
 
-![Week](https://github.com/user-attachments/assets/93108a75-32bd-4d57-834e-39fed76a0f64)
+![image](https://github.com/user-attachments/assets/d381b2da-b69e-4582-82dc-bf8714d2fdb2)
+
 
 ### 3. **New File Screen**
    - Create files for players or teams with customizable metrics.
